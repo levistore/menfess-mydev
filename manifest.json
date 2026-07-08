@@ -1,0 +1,16 @@
+{
+  "name": "Menfess - Confess App",
+  "short_name": "Menfess",
+  "description": "Kirim confess anonymous ke siapa saja",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAFAFA",
+  "theme_color": "#FF6B6B",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["social", "communication"],
+  "lang": "id"
+}
